@@ -1,0 +1,22 @@
+{
+  "name": "learning-roadmap-1",
+  "version": "1.0.0",
+  "description": "A repo containing learnings during august 2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parv-jain/learning-roadmap-1.git"
+  },
+  "author": "Parv Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parv-jain/learning-roadmap-1/issues"
+  },
+  "homepage": "https://github.com/parv-jain/learning-roadmap-1#readme",
+  "dependencies": {
+    "restify": "^8.6.1"
+  }
+}
