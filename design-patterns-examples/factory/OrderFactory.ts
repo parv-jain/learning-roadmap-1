@@ -1,0 +1,3 @@
+interface OrderFactory {
+    createOrder(): Order;
+}
